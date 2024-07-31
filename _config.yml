@@ -408,10 +408,10 @@ github_banner:
 # ---------------------------------------------------------------
 
 font:
-  enable: false
+  enable: enable
 
   # Uri of fonts host, e.g. https://fonts.googleapis.com (Default).
-  host:
+  host: https://fonts.loli.ne
 
   # Font options:
   # `external: true` will load this font family from `host` above.
@@ -422,7 +422,7 @@ font:
   global:
     external: true
     family: Lato
-    size:
+    size: 0.8
 
   # Font settings for site title (.site-title).
   title:
